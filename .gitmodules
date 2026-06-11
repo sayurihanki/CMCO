@@ -1,0 +1,6 @@
+[submodule "repos/cmco-demo"]
+	path = repos/cmco-demo
+	url = https://github.com/sayurihanki/cmco-demo.git
+[submodule "repos/jenhankib2bbodea"]
+	path = repos/jenhankib2bbodea
+	url = https://github.com/sayurihanki/jenhankib2bbodea.git
